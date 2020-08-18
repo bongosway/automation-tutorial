@@ -13,4 +13,10 @@ public class SignInTest {
         Assert.assertNotNull(bizAccount);
         Assert.assertEquals(bizAccount.getAddress(), "My Address");
     }
+
+   
+    @Test
+    public void emptytest(){
+        
+    }
 }
