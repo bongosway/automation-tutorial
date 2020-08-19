@@ -17,15 +17,7 @@ public class SignInTest {
    
     @Test
     public void emptytest(){
-        
-    }
-   
-} 
-
-/**
-* This is a comment from Sheyi
-**/
-
-}  
+       
+    } 
 
 } 
