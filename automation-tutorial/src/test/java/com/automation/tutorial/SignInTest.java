@@ -8,16 +8,16 @@ public class SignInTest {
 
 
     @Test
-    
-public void (){
-<body>        
-<p>in West Africa</p>
-<p>Nigeria</p>
-<p>Ogun State</p>
-<p>Where i was born and raised</p> 
-</body>
-
-
+    public void can_create_account_successfully(){
+        Account bizAccount = CreateAccountForm.create("a@a.com");
+        Assert.assertNotNull(bizAccount);
+        Assert.assertEquals(bizAccount.getAddress(), "My Address");
     }
 
-}
+   
+    @Test
+    public void emptytest(){
+        
+    } 
+
+} 
