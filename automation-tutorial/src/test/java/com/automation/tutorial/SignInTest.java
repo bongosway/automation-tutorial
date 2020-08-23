@@ -18,7 +18,7 @@ public class SignInTest {
 =======
     
 public void (){
-   i love coding.
+   i love coding and many more.
  }
 
 >>>>>>> Stashed changes
