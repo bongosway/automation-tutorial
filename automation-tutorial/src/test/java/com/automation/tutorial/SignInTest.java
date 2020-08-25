@@ -18,9 +18,6 @@ public class SignInTest {
 =======
     
 public void (){
-   i love coding and many more.
-
-coding would be fun...........
 
  }
 
