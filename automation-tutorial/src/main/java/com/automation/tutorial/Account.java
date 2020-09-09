@@ -2,5 +2,9 @@ package com.automation.tutorial;
 
 public interface Account {
 
-    public String getAddress();
+*/ 
+* GO
+* GO NOW
+* GO GO NOW
+*//
 }
