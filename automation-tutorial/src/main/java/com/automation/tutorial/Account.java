@@ -6,6 +6,7 @@ public interface Account {
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 */ 
 * GO
 * GO NOW
@@ -15,6 +16,8 @@ public interface Account {
     *white house
     *//
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
